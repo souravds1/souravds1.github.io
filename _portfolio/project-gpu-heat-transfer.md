@@ -1,7 +1,8 @@
 ---
-title: "Graduate Course Project 6: GPU Computing: 2D Heat Transfer Simulation with CUDA"
+title: "GPU Computing: 2D Heat Transfer Simulation with CUDA"
 excerpt: "Accelerated a 2D heat transfer simulation using NVIDIA's CUDA framework for GPU-based parallel computing."
 collection: portfolio
+category: course-projects
 ---
 
 This project focused on leveraging high-performance computing (HPC) to accelerate a 2D heat transfer simulation. The model was developed using NVIDIA's CUDA framework to harness the parallel processing capabilities of GPUs, resulting in a significant performance increase compared to traditional CPU-based methods.
