@@ -1,12 +1,4 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
-
+# main links
 main:
   - title: "Publications"
     url: /publications/
@@ -16,22 +8,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+
   - title: "Portfolio"
-    children:
-      - title: "Research Thrust"
-        url: /portfolio/research-thrust/
-      - title: "Graduate Course Projects"
-        url: /portfolio/course-projects/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /portfolio/
+
   - title: "CV"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
