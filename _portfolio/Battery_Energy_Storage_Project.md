@@ -2,6 +2,7 @@
 title: "Research Thurst 1 : Lithium-ion Battery Failure Analysis and Digital Twin Modelling"
 excerpt: "Predicting and analyzing complex degradation mechanisms in Li-ion batteries through high-fidelity digital twin models."
 collection: portfolio
+category: research-thrust 
 ---
 
 This project focuses on predicting and analyzing the complex degradation mechanisms in Li-ion batteries through in-situ and ex-situ analytical methods and the development of high-fidelity digital twin models.
