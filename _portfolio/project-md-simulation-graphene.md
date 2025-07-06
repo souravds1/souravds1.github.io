@@ -16,5 +16,4 @@ This project for my Computational Material Science course involved using large-s
 * **Hydrogen Production:** Analyzed the efficiency and byproducts of the decomposition process.
 * **Tools Used:** Performed reactive MD simulations in **LAMMPS** using the **ReaxFF** force field and conducted post-simulation graphene growth analysis.
 
-!(/images/graphene-simulation.png)
-*A sample visualization from the molecular dynamics simulation.*
+
