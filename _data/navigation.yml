@@ -18,7 +18,11 @@ main:
     url: /teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    children:
+      - title: "Research Thrust"
+        url: /portfolio/research-thrust/
+      - title: "Graduate Course Projects"
+        url: /portfolio/course-projects/
         
   - title: "Blog Posts"
     url: /year-archive/
