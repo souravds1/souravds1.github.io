@@ -7,7 +7,7 @@ collection: portfolio
 This page summarizes my project for the Advanced Thermodynamics course. Below you will find the project abstract and links to the full report and the GitHub repository containing the source files.
 
 [View Project Folder on GitHub](https://github.com/souravds1/Portfolio/tree/main/Portfolio/Advanced%20Thermodynamics){: .btn .btn--research}
-[Download Project Report](https://github.com/souravds1/Portfolio/raw/main/Portfolio/Advanced%20Thermodynamics/Advance%20Thermodynamics%20Project.pdf){: .btn .btn--research}
+[Download Project Report](https://github.com/souravds1/Portfolio/blob/main/Advanced%20Thermodynamics/Comprehensive%20Study%20of%20Liquid-Air%20and%20Compressed%20Air%20Energy%20Storage.pdf){: .btn .btn--research}
 
 ---
 
