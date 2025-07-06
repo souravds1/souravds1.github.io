@@ -1,7 +1,8 @@
 ---
-title: "Graduate Course Project 2: Advanced Biosensors: Glucose Oxidase & Carbon Dots"
+title: "Advanced Biosensors: Glucose Oxidase & Carbon Dots"
 excerpt: "Fabricated a glucose oxidase biosensor for glucose detection and synthesized carbon dots for iron (Fe3+) ion sensing."
 collection: portfolio
+category: course-projects
 ---
 
 This project from my Advanced Biosensors course covered the practical fabrication of a glucose oxidase biosensor and the synthesis of carbon dots for ion detection, applying principles of electrochemical sensing and nanomaterials.
