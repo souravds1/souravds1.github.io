@@ -1,7 +1,8 @@
 ---
-title: "Graduate Course Project 5 : Micro & Nano Mechanics: Li-ion Battery Modeling (DFN Model)"
+title: "Micro & Nano Mechanics: Li-ion Battery Modeling (DFN Model)"
 excerpt: "A computational study using the Doyle-Fuller-Newman (DFN) model to analyze the electrochemical behavior of lithium-ion batteries."
 collection: portfolio
+category: course-projects
 ---
 
 This project involved a computational study using the Doyle-Fuller-Newman (DFN) model to analyze the electrochemical behavior of lithium-ion batteries under different operating conditions.
