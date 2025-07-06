@@ -73,4 +73,7 @@ Focused on the electrochemical-mechanical interactions of metastable materials, 
 * **Swami Vivekananda Merit Scholarship** (2014-2018) - Government of West Bengal, India.
 
 ---
-## Skills &
+## Skills & Relevant Coursework
+* **Software:** COMSOL, MATLAB, Python, Lammps, Ansys, Linux, Caesar II, Solid Works, Catia, Fullprof suite.
+* **Technical:** A comprehensive list of skills in computational mechanics, electrochemistry, and energy systems.
+* **Coursework:** Advanced Thermodynamics, Heat & Mass Transfer, Micro & Nano Mechanics, Fatigue & Fracture Mechanics, Computational Material Science, GPU Computing, Finite Element Method, Electrochemical Methods, Advanced Biosensors.
