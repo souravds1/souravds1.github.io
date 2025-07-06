@@ -1,7 +1,8 @@
 ---
-title: "Graduate Course Project 4: Fatigue & Fracture Mechanics: Bone Crack Propagation"
+title: "Fatigue & Fracture Mechanics: Bone Crack Propagation"
 excerpt: "Analysis of failure crack propagation in typical orthopedic bone fractures, summarizing experimental techniques and numerical models."
 collection: portfolio
+category: course-projects
 ---
 
 This project for my Fatigue & Fracture Mechanics course involved a comprehensive literature review and analysis of bone failure mechanisms, focusing on damage seen in orthopedic procedures and accidents.
