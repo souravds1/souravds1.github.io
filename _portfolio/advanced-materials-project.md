@@ -2,6 +2,7 @@
 title: "Research Thurst 2: Advanced Materials Modelling & Characterization"
 excerpt: "Using computational and mechanical testing methods to understand and characterize novel materials."
 collection: portfolio
+category: research-thrust 
 ---
 
 This research involved using computational and mechanical testing methods to understand and characterize novel materials, from nanomaterials like graphene to biomaterials like sorghum.
