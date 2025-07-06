@@ -1,7 +1,8 @@
 ---
-title: "Gradaute Course Project 3: Computational Materials Science: Graphene & Hydrogen Synthesis Simulation"
+title: "Computational Materials Science: Graphene & Hydrogen Synthesis Simulation"
 excerpt: "Investigated the thermal decomposition of methane into graphene and hydrogen gas using reactive molecular dynamics (ReaxFF) simulations with LAMMPS."
 collection: portfolio
+category: course-projects
 ---
 
 This project for my Computational Material Science course involved using large-scale atomic/molecular massively parallel simulator (LAMMPS) to investigate the thermal decomposition of methane. The primary goal was to model the synthesis of valuable products like graphene and hydrogen gas using reactive molecular dynamics (ReaxFF) simulations.
