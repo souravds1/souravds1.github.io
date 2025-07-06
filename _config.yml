@@ -216,3 +216,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+# Forcing a site rebuild on July 6, 2025
