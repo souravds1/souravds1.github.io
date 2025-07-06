@@ -6,8 +6,8 @@ collection: portfolio
 
 This project focuses on predicting and analyzing the complex degradation mechanisms in Li-ion batteries through the development of high-fidelity digital twin models.
 
-![Your Graph/Image Here](/images/digital-twin-graph.png)
-*A sample image caption describing your graph or simulation result.*
+#![Your Graph/Image Here](/images/digital-twin-graph.png)
+#*A sample image caption describing your graph or simulation result.*
 
 ### Key Accomplishments
 * [cite_start]Engineered physics-informed digital twins to model battery degradation, improving failure prediction accuracy by over 15% under abusive conditions[cite: 26].
