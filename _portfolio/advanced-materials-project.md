@@ -1,5 +1,5 @@
 ---
-title: "Advanced Materials Modelling & Characterization"
+title: "Research Thurst 2: Advanced Materials Modelling & Characterization"
 excerpt: "Using computational and mechanical testing methods to understand and characterize novel materials."
 collection: portfolio
 ---
