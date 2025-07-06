@@ -2,6 +2,7 @@
 title: "Graduate Course Project 1 : Advanced Thermodynamics: Energy Storage System Analysis"
 excerpt: "A comprehensive study of Liquid-Air (LAES) and Compressed Air (CAES) energy storage systems based on the Carnot Battery cycle."
 collection: portfolio
+category: course-projects
 ---
 
 This page summarizes my project for the Advanced Thermodynamics course. Below you will find the project abstract and links to the full report and the GitHub repository containing the source files.
