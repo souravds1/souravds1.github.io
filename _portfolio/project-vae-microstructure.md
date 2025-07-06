@@ -1,7 +1,8 @@
 ---
-title: "Graduate Course Project: Machine Learning for 2D Microstructure Generation"
+title: "Machine Learning for 2D Microstructure Generation"
 excerpt: "Developed a two-stage VAE and Latent Diffusion Model (LDM) pipeline in PyTorch for high-fidelity synthetic microstructure generation."
 collection: portfolio
+category: course-projects
 ---
 
 This project from my Machine Learning & Data Analytics course explores the use of deep generative models to synthesize realistic 2D microstructure images, a critical step for computational materials design.
