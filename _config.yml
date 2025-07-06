@@ -8,28 +8,28 @@
 
 # Basic Site Settings
 locale: "en-US"
-[cite_start]title: "SOURAV DAS - Research Portfolio" [cite: 1]
+title: "SOURAV DAS - Research Portfolio"
 title_separator: "-"
-[cite_start]name: "Sourav Das" [cite: 1]
+name: "Sourav Das"
 description: >-
   Ph.D. candidate in Mechanical Engineering with 4 years of industry experience in design engineering and a deep research focus on Li-ion battery degradation, diagnostics, and digital twin modeling. Proven ability to lead complex projects, from industrial pipeline design for global EPC firms to pioneering novel battery analysis workflows resulting in first-author publications and an R&D 100 Award.
-url: "https://souravds1.github.io" # Your site's base hostname
-repository: "souravds1/souravds1.github.io" # Your repo path: username/repo-name
+url: "https://souravds1.github.io" 
+repository: "souravds1/souravds1.github.io" 
 
 # Author Settings
 author:
-  [cite_start]name: "Sourav Das" [cite: 1]
-  avatar: "profile.png" # Path to your profile picture in the /images/ folder
+  name: "Sourav Das"
+  avatar: "profile.png"
   pronouns: "He/him"
   bio: "Ph.D. Researcher at Iowa State University focusing on Energy Storage, Digital Twins, and Machine Learning."
   location: "Ames, IA"
-  [cite_start]employer: "Iowa State University" [cite: 9]
-  [cite_start]email: "sourav1@iastate.edu" [cite: 2]
+  employer: "Iowa State University"
+  email: "sourav1@iastate.edu"
   
   # Social and Academic Links
-  linkedin: "souravds1" # Your username only
-  github: "souravds1" # Your username only
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ" # Full URL
+  linkedin: "souravds1"
+  github: "souravds1"
+  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   orcid: "https://orcid.org/0000-0001-6997-1698"
 
 # Publication Category - The following the list of publication categories and their headings
