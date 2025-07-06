@@ -19,7 +19,7 @@ repository: "souravds1/souravds1.github.io" # Your repo path: username/repo-name
 # Author Settings
 author:
   [cite_start]name: "Sourav Das" [cite: 1]
-  avatar: "profile.png" # Path to your profile picture in the /images/ folder
+  avatar: "profile.png.jpg" # Path to your profile picture in the /images/ folder
   pronouns: "He/him"
   bio: "Ph.D. Researcher at Iowa State University focusing on Energy Storage, Digital Twins, and Machine Learning."
   location: "Ames, IA"
