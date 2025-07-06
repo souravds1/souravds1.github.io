@@ -22,5 +22,3 @@ This research involved the bottom-up synthesis of fluorescent carbon dots. The m
 
 [Download Full Report (PDF)](https://github.com/souravds1/Portfolio/raw/main/Bio%20Sensor/Synthesize%20Carbon%20Dots%20and%20Perform%20Iron%20Sensing.pdf){: .btn .btn--research}
 
-!(/images/biosensor-project-image.png)
-*A sample image from the lab or a results graph.*
