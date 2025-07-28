@@ -7,6 +7,8 @@ category: course-projects
 
 This project from my Machine Learning & Data Analytics course explores the use of deep generative models to synthesize realistic 2D microstructure images, a critical step for computational materials design.
 
+[View Project Folder on GitHub](https://github.com/souravds1/Portfolio/tree/96b6bc3bc701147c080c883765eb9cec870c2dac/Machine%20Learning%20and%20Data%20analytics){: .btn .btn--research}
+
 [Download Full Report (PDF)](https://github.com/souravds1/souravds1.github.io/blob/a5303f498cbc4cf6c9beedfef0593a34627db9dd/files/Project_Exploring_Variational_Autoencoders_for_2D_Microstructure.pdf){: .btn .btn--research}
 
 ---
